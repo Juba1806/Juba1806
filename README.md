@@ -1,7 +1,7 @@
-### Hi there, I go by Simo and I have a fondness for computers, and it appears that they reciprocate that affection towards me
+### Hi there, I am another stranger on the interneet  I go by Simo and yeahr that's it 
 
 
-Here are some ideas to get you started:
+Here are some random stuff about me:
 
 - 🔭 I’m currently working on linkedin bot
 - 🌱 I’m currently learning java 
