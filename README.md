@@ -1,4 +1,4 @@
-### Hi there, I am another stranger on the interneet  I go by Simo and yeahr that's it 
+### Hi there, I am another stranger on the interneet  I go by Simo and yeah that's about it 
 
 
 Here are some random stuff about me:
