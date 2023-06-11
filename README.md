@@ -1,4 +1,4 @@
-### Hi there, I am another stranger on the internetI go by Simo and yeah that's about it 
+### Hi there, I am another stranger on the internet I go by Simo and yeah that's about it 
 
 
 Here are some random stuff about me:
