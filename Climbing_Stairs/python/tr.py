@@ -4,18 +4,23 @@
 def haja(nums,target):
     nums = sorted(nums)
 
-    for i in nums:
-        if nums[i] == target:
-            try:
-                print(i)
-            except:
-                print("can't help you bro")
+    for a,b in enumerate(nums):
+        if target <= b:
+            if nums[a] == target:
+                a = x
+        else:
+            x = a + 1
 
-
+    print(f"x is {x}")
 
 
 haja([1,3,5,6],5)
 #output should be 2
+
+
+haja([1,2,3,4],2)
+# output should be 2
+
 
 
 haja([1,3,4,6],2)
