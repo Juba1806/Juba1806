@@ -6,13 +6,9 @@ def haja(nums,target):
 
     for a,b in enumerate(nums):
         if target <= b:
-            if nums[a] == target:
-                x  = a
-        else:
-            x = a + 1
+            return print(a)
 
-    #    print(f"x is {x}")
-    return print(x)
+        return print(len(nums))
 
 
 
@@ -21,7 +17,7 @@ haja([1,3,5,6],5)
 
 
 haja([1,2,3,4],2)
-# output should be 2
+# output should be 1
 
 
 
